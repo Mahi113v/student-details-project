@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Julee|Lobster|Kanit|Neuton|Handlee|Pacifico|Marck Script|Mr Dafoe|Gloria Hallelujah|Shantell sans|Kalam|Acme|Courgette|Yellowtail|Great Vibes");
+.signtextdiv
+{
+    height: 500px;
+    width:400px;
+    text-align:center;
+    margin-top:50px;
+    padding-top:25px;
+    font-family:"Courgette";
+    border-radius:10px;
+    box-shadow:2px 3px 15px 3px rgb(105, 104, 104);
+    font-weight:bold;
+}
+.signfidiv
+{
+    width:400px;
+}
+.signmaintext
+{
+    height:60px;
+}
+.signinp
+{
+    color:orangered;
+    width:240px;
+    height:35px;
+    background:transparent;
+    border-bottom:1px solid #ff7200;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    font-size:15px;
+    letter-spacing:1px;
+    margin-top:20px;
+    font-family:"Courgette";
+    font-size:20px;
+    outline:none;
+}
+.signinp::placeholder
+{
+    color:black;
+    font-family:"Kalam";
+    font-size:20px;
+}
+.signbut
+{
+    border:none;
+    font-weight:bolder;
+    background-color:green;
+    text-align: center;
+}
+.signbut:hover
+{
+    color:white;
+    border:none;
+    font-weight:bolder;
+    padding-right:10px;
+    background-color:royalblue;
+}
+.passspan
+{
+    color:red;
+}

@@ -1,0 +1,22 @@
+.infonav{
+    height:80px;
+}
+.infomaintext{
+    font-size:30px;
+    font-weight:bold;
+    font-family:sans-serif;
+    font-style:italic;
+}
+.infonavimg{
+    height:80px;
+    width:80px;
+}
+.stuinfoimg{
+    height:150px;
+    width:150px;
+}
+.infosecdiv{
+    font-size:18px;
+    font-weight:bold;
+    font-style:italic;
+}

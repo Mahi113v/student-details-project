@@ -1,0 +1,10 @@
+[
+    {
+        "image" : "imageman.jpg",
+        "gender" : "Male"
+    },
+    {
+        "image" : "imagewomann.jpg",
+        "gender" : "Female"
+    }
+]

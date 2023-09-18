@@ -1,0 +1,27 @@
+[
+    {
+        "image" : "Mech.jpg",
+        "department_name" : "Mechanical",
+        "department_code" : "MECH"
+    },
+    {
+        "image" : "Civil.jpg",
+        "department_name" : "Civil",
+        "department_code" : "CIVIL"
+    },
+    {
+        "image" : "Cse.jpg",
+        "department_name" : "Computer Science",
+        "department_code" : "CSE"
+    },
+    {
+        "image" : "Eee.jpg",
+        "department_name" : "Electrical & Electronic",
+        "department_code" : "EEE"
+    },
+    {
+        "image" : "Ece.jpg",
+        "department_name" : "Electronic & Communication",
+        "department_code" : "ECE"
+    }
+]

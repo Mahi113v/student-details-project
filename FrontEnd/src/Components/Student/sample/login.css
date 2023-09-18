@@ -1,0 +1,37 @@
+.formdiv
+{
+    background-color:blue;
+    min-height:100vh;
+    font-size:20px;
+    font-weight:bold;
+}
+.formfidiv
+{
+    background-color:aqua;
+    width:300px;
+    height:200px;
+    border-radius:20px;
+}
+.formtag
+{
+    color:white;
+    text-align:center;
+}
+.formbut
+{
+    outline:none;
+    border:none;
+}
+.forminput
+{
+    margin:10px;
+    border-radius:20px;
+    background-color:transparent;
+}
+.forminput::placeholder
+{
+    font-size:15px;
+    font-weight:bold;
+    color:rgb(255, 174, 0);
+    padding:10px;
+}

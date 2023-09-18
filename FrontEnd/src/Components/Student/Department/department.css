@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Julee|Lobster|Kanit|Neuton|Handlee|Pacifico|Marck Script|Mr Dafoe|Gloria Hallelujah|Shantell sans|Kalam|Acme|Courgette|Yellowtail|Great Vibes");
+
+.departtext
+{
+    height:60px;
+    font-family:serif;
+    font-weight:bold;
+    padding-top:5px;
+}
+.departimg
+{
+    height:200px;
+    width:200px;
+    border-radius:10px;
+    transition:0.1em ease-in-out;
+}
+.departimg:hover
+{
+    transform:scale(1.05);
+}
+.dashtext
+{
+    border-radius:10px;
+    height:35px;
+    text-align: center;
+    padding:5px;
+    font-family:"Courgette";
+    color:white;
+}
+.departcardtext:hover
+{
+    text-decoration:none;
+    background-color:royalblue;
+    color:white;
+}
+.departcardtext
+{
+    color:black;
+    border:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    background-color:rgb(74, 200, 29);
+}
